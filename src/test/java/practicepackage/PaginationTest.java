@@ -55,6 +55,8 @@ public class PaginationTest {
 		
 		driver.quit();
 		
+		System.out.println("hello");
+		
 	}
 	
 	
