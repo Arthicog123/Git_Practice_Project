@@ -24,6 +24,8 @@ public class AmazonTest {
 		driver.findElement(By.xpath("//div[@id='nav-flyout-icp']/descendant::span[text()='"+lang+"']/preceding-sibling::i[@class='icp-radio']")).click();
 		
 		driver.quit();
+		
+		System.out.println("hello");
 	}
 	
 }
