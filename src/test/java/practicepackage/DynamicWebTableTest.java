@@ -28,7 +28,7 @@ public class DynamicWebTableTest {
 		System.out.println("CPU % of "+name+" is : "+cpu);
 		
 		driver.quit();
-		
+		System.out.println("hehe");
 		System.out.println("hii");
 		System.out.println("hello");
 	}
