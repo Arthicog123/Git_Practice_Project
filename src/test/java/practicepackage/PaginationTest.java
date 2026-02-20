@@ -48,6 +48,9 @@ public class PaginationTest {
 		    
 			
 		}
+		
+		System.out.println("hii");
+		
 		System.out.println("Price of "+expect+" is : "+price);
 		
 		driver.quit();
